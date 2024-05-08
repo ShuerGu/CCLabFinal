@@ -83,7 +83,7 @@ refillEmojiOptions();
 let emojis = [];
 let numEmojis = 20;
 let startGenerating = false;
-let sourceText2 = "This is a suitcase left by a traveller from April, 2024";
+let sourceText2 = "This is a suitcase left by a traveller from March, 2024";
 let idx2 = 0;
 let date = new Date();
 let firstEmojis = [];
